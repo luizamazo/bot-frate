@@ -156,8 +156,8 @@ const checkDuplicateEmail = async (emailsJson, userYop) => {
 
 let number = 0
 while(!flag){
-  number = Math.floor(Math.random() * (30 - 11 + 1)) + 11
-  let userYop = `delvesco${number}`
+  number = Math.floor(Math.random() * (process.argv[4] - process.argv[3] + 1)) + process.argv[3]
+  let userYop = `${process.argv[2]}${number}`
   let emailsJson = await readJson(jsonPath)
   let isEmailDuplicate = await checkDuplicateEmail(emailsJson, userYop)
   if(isEmailDuplicate){
