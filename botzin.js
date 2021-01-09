@@ -156,7 +156,7 @@ const checkDuplicateEmail = async (emailsJson, userYop) => {
 
 let number = 0
 while(!flag){
-  number = Math.floor(Math.random() * (process.argv[4] - process.argv[3] + 1)) + process.argv[3]
+  number = Math.floor(Math.random() * (process.argv[3] - 1 + 1)) + 1
   let userYop = `${process.argv[2]}${number}`
   let emailsJson = await readJson(jsonPath)
   let isEmailDuplicate = await checkDuplicateEmail(emailsJson, userYop)
@@ -166,7 +166,7 @@ while(!flag){
     await createUserGF(userYop)
   }
  emailsJson = await readJson(jsonPath)
-  if(emailsJson.length == 10){
+  if(emailsJson.length == process.argv[3]){
     let cleanEmails = []
     //await writeJson(jsonPath, cleanEmails)
     flag = true
