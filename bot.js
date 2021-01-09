@@ -1,45 +1,19 @@
 const puppeteer = require('puppeteer-extra')
+const fs = require('fs')
+let path = require('path')
 
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-const AdblockerPlugin = require('puppeteer-extra-plugin-adblocker')
-puppeteer.use(AdblockerPlugin({ blockTrackers: true }))
- 
-puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browser => {
-  let number = 31,
-  userYop = `testando${number}`
-  const yopMail = await browser.newPage()
-  await yopMail.setViewport({ width: 1280, height: 1800 })
-  await yopMail.goto('http://m.yopmail.com/en/', {waitUntil: 'networkidle2'})
-  await yopMail.waitForSelector('input[name=login]')
-  await yopMail.$eval('input[name=login]', (el, userYop) => {
-    return el.value = userYop
-  }, userYop)
-  await (await yopMail.$('input[type="submit"]')).press('Enter')
-
+puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
+  let flag = false,
+  jsonPath = path.resolve('emails.json')
   const granFratello = await browser.newPage()
   await granFratello.setViewport({ width: 1200, height: 1800 })
- /*  await granFratello.setRequestInterception(true);
-    granFratello.on("request", async (req) => {
-      try {
-        switch (await req.resourceType()) {
-          case "image":
-          case "stylesheet":
-          case "font":
-            await req.abort()
-            break;
-          default:
-            await req.continue()
-            break;
-        }
-      } catch (e) {
-        console.log(e)
-      }
-    }) */
+ 
   await granFratello.goto('https://grandefratello.mediaset.it/vota/', {
     waitUntil: 'networkidle0'
-  })
+  }) 
 
   const createUserGF = async (userYop) => {
     try{
@@ -49,9 +23,18 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
       await granFratello.$eval('.register', el => el.click())
       await pageRegisterSelectorLoad()
       await seedInputFields(userYop) 
-      console.log('wairit')
+      await granFratello.waitForTimeout(5000)
+      await granFratello.evaluate( async () => { 
+        document.querySelector('div.gigya-screen-dialog-main > div.gigya-screen-dialog-top > div.gigya-screen-dialog-close > a').click()
+      })
+      await granFratello.waitForTimeout(5000)
+      console.log(`Conta ${userYop} criada com sucesso`)
+      let json = await readJson(jsonPath)
+      json.push(userYop)
+      await writeJson(jsonPath, json)
     }catch(e){
       console.log('deuruims', e)
+      flag = true 
     }
   }
 
@@ -126,9 +109,74 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
    await granFratello.$eval('input[type="submit"]', el => el.click())
   }
 
-//await createUserGF(userYop)
+let writeJson = async (jsonPath, content) => {
+  return new Promise(function(resolve, reject){
+    const jsonString = JSON.stringify(content)
+    fs.writeFile(jsonPath, jsonString, err => {
+      if(err){
+        console.error('Error writing JSON file', err)
+      }else{
+        console.log('Successfully wrote JSON file')
+        resolve()
+      }
+    })
+  })
+}
 
-let pages = await browser.pages()
+let readJson = async jsonPath => {
+  return new Promise(function(resolve, reject){
+    fs.readFile(jsonPath, 'utf8', (err, jsonString) => {
+      if(err){
+        console.log('Reading json file failed', err)
+      }
+      try{
+        const json = JSON.parse(jsonString)
+        resolve(json)
+      }catch(err){
+        console.error('Error parsing Json', err)
+      }
+    })
+  })
+}
+
+const checkDuplicateEmail = async (emailsJson, userYop) => {
+  let flagDuplicate = false
+  if(emailsJson.length > 0){
+    for(email of emailsJson){
+      if(email == userYop){
+        console.log('Esse email já existe', email)
+        console.log('Tentando novamente...')
+        flagDuplicate = true
+        break;
+      }
+    }
+  }
+  return flagDuplicate
+}
+
+let number = 0
+while(!flag){
+  number = Math.floor(Math.random() * (30 - 11 + 1)) + 11
+  let userYop = `delvesco${number}`
+  let emailsJson = await readJson(jsonPath)
+  let isEmailDuplicate = await checkDuplicateEmail(emailsJson, userYop)
+  if(isEmailDuplicate){
+    continue;
+  }else{
+    await createUserGF(userYop)
+  }
+ emailsJson = await readJson(jsonPath)
+  if(emailsJson.length == 10){
+    let cleanEmails = []
+    //await writeJson(jsonPath, cleanEmails)
+    flag = true
+  }
+  if(flag){
+   browser.close()
+  } 
+} 
+
+/* let pages = await browser.pages()
 await pages[1].waitForTimeout(1000)
 await pages[1].evaluate( async () => { 
   console.log('ebntro')
@@ -141,9 +189,9 @@ await pages[1].evaluate( async () => {
     console.log('rerfrsh deu bom', oi)
   }catch(e){
     console.log('refresh deu ruim', e)
-  } 
+  }  
 })
-
+*/
 //number++
   
 })
