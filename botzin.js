@@ -116,7 +116,7 @@ let writeJson = async (jsonPath, content) => {
       if(err){
         console.error('Error writing JSON file', err)
       }else{
-        console.log('Successfully wrote JSON file')
+        console.log('Salvando a conta no log...')
         resolve()
       }
     })
