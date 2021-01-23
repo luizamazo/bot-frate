@@ -65,6 +65,7 @@ let vote = async () => {
   }else if(process.argv[2] == 'd'){
     await granFratello.$eval('a[title="Dayane"]', el => el.click())
   }
+
   await granFratello.$eval('#main > div > div.b_vote.active > h3 > span', el => el.click())
   await granFratello.waitForSelector('.b_info.on')
   const msgOk = await granFratello.evaluate(() => document.querySelector('.b_info.on').textContent)
@@ -72,9 +73,9 @@ let vote = async () => {
   if(msgOk.includes('Hai a disposizione ancora')){
     try{
       if(process.argv[2] == 'r'){
-        console.log('Votei na Rosinha || Ainda há votos nessa sessão, revotando...\n\n')
+        console.log('Votei na Rosinha || Ainda há votos nessa sessão, revotando...\n')
       }else if(process.argv[2] == 'd'){
-        console.log('Votei na BDS || Ainda há votos nessa sessão, revotando...\n\n')
+        console.log('Votei na BDS || Ainda há votos nessa sessão, revotando...\n')
       }
       await granFratello.waitForSelector('#msg_ok > span.revote > a')
       await granFratello.$eval('#msg_ok > span.revote > a', el => el.click())
@@ -121,18 +122,23 @@ let readJson = async jsonPath => {
 let password = `${process.argv[3]}`,
 success = false
 while(!flag){
-  let emailsJson = await readJson(jsonPath)
-  if(emailsJson.length == 0){
-    console.log('Acabou as contas')
-    flag = true
-  }else{
-    for(emails of emailsJson){
-      success = await voteGF(emails, password)
-      if(success){
-        emailsJson.shift()
-        await writeJson(jsonPath, emailsJson)
+  if(process.argv[2] == 'r' || process.argv[2] == 'd'){
+    let emailsJson = await readJson(jsonPath)
+    if(emailsJson.length == 0){
+      console.log('Acabou as contas')
+      flag = true
+    }else{
+      for(emails of emailsJson){
+        success = await voteGF(emails, password)
+        if(success){
+          emailsJson.shift()
+          await writeJson(jsonPath, emailsJson)
+        }
       }
     }
+  }else{
+    console.log('Quer votar em quem fi? Só pode votar na Rosinha ou na BDS')
+    flag = true
   }
   if(flag){
    browser.close()

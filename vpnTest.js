@@ -11,6 +11,6 @@ puppeteer.launch({ headless: true }).then(async browser => {
   await page.goto('https://ipleak.net/')
   await page.waitForTimeout(1000)
   await page.screenshot({ path: 'vpnTest.png', fullPage: true })
-
+  console.log('Teste realizado, verifique na imagem vpnTest.png')
   await browser.close()
 })
