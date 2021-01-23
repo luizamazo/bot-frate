@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer-extra')
 const fs = require('fs')
 let path = require('path')
+const { orderBy } = require('natural-orderby')
 
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
@@ -174,6 +175,9 @@ while(!flag){
     flag = true
   }
   if(flag){
+   let jsonToReorder = await readJson(jsonPath)
+   reorderEmails = orderBy(jsonToReorder)
+   await writeJson(jsonPath, reorderEmails)
    browser.close()
   }  
 } 
