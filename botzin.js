@@ -5,18 +5,20 @@ let path = require('path')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
+puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('emails.json')
   const granFratello = await browser.newPage()
-  await granFratello.setViewport({ width: 1200, height: 1800 })
+ // await granFratello.setViewport({ width: 1200, height: 3000})
  
   await granFratello.goto('https://grandefratello.mediaset.it/vota/', {
-    waitUntil: 'networkidle0'
+    waitUntil: 'networkidle2',
+    timeout: 0
   }) 
 
   const createUserGF = async (userYop) => {
     try{
+      await granFratello.waitForTimeout(2000)
       await granFratello.waitForSelector('#user_name')
       await granFratello.$eval('#user_name', el => el.click())
       await granFratello.waitForSelector('.register')
@@ -31,7 +33,7 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser
       console.log(`Conta ${userYop} criada com sucesso`)
       let json = await readJson(jsonPath)
       json.push(userYop)
-      await writeJson(jsonPath, json)
+      await writeJson(jsonPath, json) 
     }catch(e){
       console.log('deuruims', e)
       flag = true 
@@ -166,32 +168,15 @@ while(!flag){
     await createUserGF(userYop)
   }
  emailsJson = await readJson(jsonPath)
-  if(emailsJson.length == process.argv[3]){
+ if(emailsJson.length == process.argv[3]){
     let cleanEmails = []
     //await writeJson(jsonPath, cleanEmails)
     flag = true
   }
   if(flag){
    browser.close()
-  } 
+  }  
 } 
 
-/* let pages = await browser.pages()
-await pages[1].waitForTimeout(1000)
-await pages[1].evaluate( async () => { 
-  console.log('ebntro')
-  try{
-    // document.querySelector('body > center > div:nth-child(3) > table > tbody > tr > td:nth-child(10) > a').click()
-    let iframe = document.getElementById('ifinbox'),
-    doc = iframe.contentDocument 
-    console.log(doc)
-    let oi = doc.querySelector('body > div > #m1 > div > a').click()
-    console.log('rerfrsh deu bom', oi)
-  }catch(e){
-    console.log('refresh deu ruim', e)
-  }  
-})
-*/
-//number++
   
 })
