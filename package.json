@@ -9,6 +9,7 @@
   "author": "luidy",
   "license": "ISC",
   "dependencies": {
+    "natural-orderby": "^2.0.3",
     "puppeteer": "^5.5.0",
     "puppeteer-extra": "^3.1.15",
     "puppeteer-extra-plugin-adblocker": "^2.11.9",
