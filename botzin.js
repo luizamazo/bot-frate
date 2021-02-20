@@ -27,8 +27,6 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: nu
     timeout: 0
   }) 
 
-  console.log('granfratellio', granFratello)
-
   const createUserGF = async (userYop, granFratello) => {
     try{
       await granFratello.waitForTimeout(5000)
