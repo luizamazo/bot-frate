@@ -1,12 +1,22 @@
+let path = require('path')
 const puppeteer = require('puppeteer-extra')
 const fs = require('fs')
-let path = require('path')
 const { orderBy } = require('natural-orderby')
-
+const RecaptchaPlugin = require('puppeteer-extra-plugin-recaptcha')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
-puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
+puppeteer.use(StealthPlugin())
+puppeteer.use(
+  RecaptchaPlugin({
+    provider: {
+      id: '2captcha',
+      token: '1d4ea1f75b42ee3bdb37b0b7b6754835', 
+    },
+    visualFeedback: true, 
+  })
+)
+
+puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('emails.json')
   const granFratello = await browser.newPage()
@@ -17,15 +27,18 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
     timeout: 0
   }) 
 
-  const createUserGF = async (userYop) => {
+  console.log('granfratellio', granFratello)
+
+  const createUserGF = async (userYop, granFratello) => {
     try{
-      await granFratello.waitForTimeout(2000)
+      await granFratello.waitForTimeout(5000)
       await granFratello.waitForSelector('#user_name')
       await granFratello.$eval('#user_name', el => el.click())
+      await granFratello.waitForTimeout(5000)
       await granFratello.waitForSelector('.register')
       await granFratello.$eval('.register', el => el.click())
       await pageRegisterSelectorLoad()
-      await seedInputFields(userYop) 
+      await seedInputFields(userYop, granFratello) 
       await granFratello.waitForTimeout(5000)
       await granFratello.evaluate( async () => { 
         document.querySelector('div.gigya-screen-dialog-main > div.gigya-screen-dialog-top > div.gigya-screen-dialog-close > a').click()
@@ -58,10 +71,10 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
     await granFratello.waitForSelector('input[name="preferences.data.isConsentGranted"]')
   }
 
-  const seedInputFields = async (userYop) => {
+  const seedInputFields = async (userYop, granFratello) => {
     const passYop = 'Vixen100'
     await granFratello.$eval('input[name="email"]', (el, userYop) => {
-      return el.value = `${userYop}@yopmail.com`
+      return el.value = `${userYop}@ceroa.com`
     }, userYop)
     await granFratello.$eval('input[name="profile.username"]', (el, userYop) => {
       return el.value = userYop
@@ -109,7 +122,13 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
     await granFratello.$$eval('input[value="true"]', checkboxes => {
       checkboxes.forEach(chbox => chbox.click())
    })
-   await granFratello.$eval('input[type="submit"]', el => el.click())
+
+   await granFratello.solveRecaptchas()
+
+   await Promise.all([
+      await granFratello.waitForTimeout(5000),
+      await granFratello.$eval('input[type="submit"]', el => el.click())
+    ])
   }
 
 let writeJson = async (jsonPath, content) => {
@@ -166,7 +185,7 @@ while(!flag){
   if(isEmailDuplicate){
     continue;
   }else{
-    await createUserGF(userYop)
+    await createUserGF(userYop, granFratello)
   }
  emailsJson = await readJson(jsonPath)
  if(emailsJson.length == process.argv[3]){
