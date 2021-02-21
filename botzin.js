@@ -6,7 +6,7 @@ const { orderBy } = require('natural-orderby')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
+puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('emails.json')
   const granFratello = await browser.newPage()

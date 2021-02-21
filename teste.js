@@ -1,0 +1,1 @@
+console.log('meus ars', process.argv)
