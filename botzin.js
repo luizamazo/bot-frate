@@ -4,6 +4,7 @@ const fs = require('fs')
 const { orderBy } = require('natural-orderby')
 const RecaptchaPlugin = require('puppeteer-extra-plugin-recaptcha')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
+const { Console } = require('console')
 
 puppeteer.use(StealthPlugin())
 puppeteer.use(
@@ -90,7 +91,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: nu
       return el.value = userYop
     }, userYop)
     
-    let birthDate = Math.floor(Math.random() * (31 - 1 + 1)) + 1
+    let birthDate = Math.floor(Math.random() * (28 - 1 + 1)) + 1
     let birthMonth = Math.floor(Math.random() * (12 - 1 + 1)) + 1
     let birthYear = Math.floor(Math.random() * (1998 - 1967 + 1)) + 1967
 
@@ -121,11 +122,12 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: nu
       checkboxes.forEach(chbox => chbox.click())
    })
 
-   await granFratello.solveRecaptchas()
-
+   console.log('Resolvendo o captcha... user:', userYop)
+   console.log('Foi...')
    await Promise.all([
-      await granFratello.waitForTimeout(5000),
-      await granFratello.$eval('input[type="submit"]', el => el.click())
+      await granFratello.waitForTimeout(10000),
+      await granFratello.$eval('input[type="submit"]', el => el.click()),
+      await granFratello.solveRecaptchas()
     ])
   }
 
