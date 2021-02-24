@@ -17,7 +17,7 @@ puppeteer.use(
   })
 )
 
-puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
+puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('emails.json')
   const granFratello = await browser.newPage()
@@ -73,7 +73,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: nu
   const seedInputFields = async (userYop, granFratello) => {
     const passYop = 'Vixen100'
     await granFratello.$eval('input[name="email"]', (el, userYop) => {
-      return el.value = `${userYop}@ceroa.com`
+      return el.value = `${userYop}@bived.com`
     }, userYop)
     await granFratello.$eval('input[name="profile.username"]', (el, userYop) => {
       return el.value = userYop
