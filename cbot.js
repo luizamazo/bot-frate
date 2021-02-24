@@ -122,14 +122,10 @@ let readJson = async jsonPath => {
 
 while(!flag){
   let emailsJson = await readJson(jsonPath)
-  console.log('no começo do while', emailsJson)
   if(emailsJson.length == 0){
-    console.log('Acabou as contas')
     flag = true
   }else{
-    console.log('embaixo do else', emailsJson)
     for(email of emailsJson){
-      console.log('dentro do for', email)
       await confirmEmail(email)
     }
     flag = true
