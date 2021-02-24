@@ -9,7 +9,6 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser
   let flag = false,
   jsonPath = path.resolve('emails-ac.json')
   const granFratello = await browser.newPage()
-  await granFratello.setViewport({ width: 1200, height: 1800 })
  
   await granFratello.goto('https://grandefratello.mediaset.it/vota/', {
     waitUntil: 'load',
@@ -73,7 +72,7 @@ let vote = async () => {
   if(msgOk.includes('Hai a disposizione ancora')){
     try{
       if(process.argv[2] == 'r'){
-        console.log('Votei na Rosinha || Ainda há votos nessa sessão, revotando...\n')
+        console.log('Votei na fiasco || Ainda há votos nessa sessão, revotando...\n')
       }else if(process.argv[2] == 'd'){
         console.log('Votei na BDS || Ainda há votos nessa sessão, revotando...\n')
       }
@@ -119,27 +118,18 @@ let readJson = async jsonPath => {
   })
 }
 
-let password = `${process.argv[3]}`,
-success = false
+let password = `${process.argv[3]}`
 while(!flag){
-  if(process.argv[2] == 'r' || process.argv[2] == 'd'){
     let emailsJson = await readJson(jsonPath)
     if(emailsJson.length == 0){
       console.log('Acabou as contas')
       flag = true
     }else{
       for(emails of emailsJson){
-        success = await voteGF(emails, password)
-        if(success){
-          emailsJson.shift()
-          await writeJson(jsonPath, emailsJson)
-        }
+        await voteGF(emails, password)
       }
+      flag = true
     }
-  }else{
-    console.log('Quer votar em quem fi? Só pode votar na Rosinha ou na BDS')
-    flag = true
-  }
   if(flag){
    browser.close()
   } 
