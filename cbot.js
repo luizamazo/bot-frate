@@ -18,7 +18,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
 
   const confirmEmail = async (user) => {
     try{
-      await emailGenerator.waitForTimeout(2000)
+      await emailGenerator.waitForTimeout(5000)
       await emailGenerator.waitForSelector('#userName')
       await emailGenerator.waitForSelector('#domnamserch666')
 
@@ -36,7 +36,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
       await emailGenerator.keyboard.up('Control')
       await emailGenerator.keyboard.press('Backspace') 
       await emailGenerator.keyboard.type('bived.com',  {delay: 20})
-      await emailGenerator.waitForTimeout(2000)
+      await emailGenerator.waitForTimeout(4000)
       await emailGenerator.focus('#userName')
       await emailGenerator.$eval('#refresh > button', el => el.click())
 
@@ -83,6 +83,12 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
         return true 
       }catch(e){
         console.log('deu ruim no inbix', e)
+        log.push({
+          msg: 'Deu ruim',
+          user: user, 
+          error: e
+       })
+       await writeJson(logPath, log)
       }
     }catch(e){
       console.log('deu ruim', e)
@@ -112,7 +118,7 @@ let readJson = async jsonPath => {
       }
       try{
         const json = JSON.parse(jsonString)
-        resolve(json)
+        resolve(json) 
       }catch(err){
         console.error('Error parsing Json', err)
       }

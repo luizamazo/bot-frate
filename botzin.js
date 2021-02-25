@@ -29,6 +29,7 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
   }) 
 
   const createUserGF = async (userYop, granFratello) => {
+    seedInputSuccess = false
     try{
       await granFratello.waitForTimeout(5000)
       await granFratello.waitForSelector('#user_name')
@@ -37,18 +38,23 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
       await granFratello.waitForSelector('.register')
       await granFratello.$eval('.register', el => el.click())
       await pageRegisterSelectorLoad()
-      await seedInputFields(userYop, granFratello) 
-      await granFratello.waitForTimeout(5000)
-      await granFratello.evaluate( async () => { 
-        document.querySelector('div.gigya-screen-dialog-main > div.gigya-screen-dialog-top > div.gigya-screen-dialog-close > a').click()
-      })
-      await granFratello.waitForTimeout(5000)
-      console.log(`Conta ${userYop} criada com sucesso`)
-      let json = await readJson(jsonPath)
-      json.push(userYop)
-      await writeJson(jsonPath, json) 
+      seedInputSuccess =await seedInputFields(userYop, granFratello) 
+      if(seedInputSuccess){
+        await granFratello.waitForTimeout(5000)
+        await granFratello.evaluate( async () => { 
+          document.querySelector('div.gigya-screen-dialog-main > div.gigya-screen-dialog-top > div.gigya-screen-dialog-close > a').click()
+        })
+        await granFratello.waitForTimeout(5000)
+        console.log(`Conta ${userYop} criada com sucesso`)
+        let json = await readJson(jsonPath)
+        json.push(userYop)
+        await writeJson(jsonPath, json) 
+        return true
+      }else{
+        return false
+      }
     }catch(e){
-      console.log('deuruims', e)
+      console.log('DEU RUIM:', e)
       flag = true 
     }
   }
@@ -72,63 +78,80 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
 
   const seedInputFields = async (userYop, granFratello) => {
     const passYop = 'Vixen100'
-    await granFratello.$eval('input[name="email"]', (el, userYop) => {
-      return el.value = `${userYop}@bived.com`
-    }, userYop)
+    let error = false
+    await granFratello.focus('input[name="email"')
+    await granFratello.keyboard.type(`${userYop}@billseo.com`,  {delay: 20})
+    /* await granFratello.$eval('input[name="email"]', (el, userYop) => {
+      return el.value = `${userYop}@yopmail.com`
+    }, userYop)*/
+
     await granFratello.$eval('input[name="profile.username"]', (el, userYop) => {
       return el.value = userYop
-    }, userYop)
-    await granFratello.$eval('input[name="password"]', (el, passYop) => {
-      return el.value = passYop
-    }, passYop)
-    await granFratello.$eval('input[name="passwordRetype"]', (el, passYop) => {
-      return el.value = passYop
-    }, passYop)
-    await granFratello.$eval('input[name="profile.firstName"]', (el, userYop) => {
-      return el.value = userYop
-    }, userYop)
-    await granFratello.$eval('input[name="profile.lastName"]', (el, userYop) => {
-      return el.value = userYop
-    }, userYop)
-    
-    let birthDate = Math.floor(Math.random() * (28 - 1 + 1)) + 1
-    let birthMonth = Math.floor(Math.random() * (12 - 1 + 1)) + 1
-    let birthYear = Math.floor(Math.random() * (1998 - 1967 + 1)) + 1967
-
-    await granFratello.select('#gigya-dropdown-122191383995894850', birthDate.toString())
-    await granFratello.select('#gigya-dropdown-118502566152086350', birthMonth.toString())
-    await granFratello.select('#gigya-dropdown-8784083251535020', birthYear.toString()) 
-    
-    let gender = ['m', 'f'],
-    cities = ['Milano', 'Roma', 'Sicilia']
-    randGender = '',
-    randCity = ''
-    Array.prototype.getRandomVal = function(){
-      return this[Math.floor(Math.random() * this.length)]
+    }, userYop) 
+    await granFratello.waitForTimeout(2000)
+    const errorMessage = await granFratello.evaluate(() => {
+      return document.querySelector('#register-site-login > div:nth-child(1) > div.gigya-layout-row > div > span').textContent
+    })
+    if(errorMessage != undefined && errorMessage.includes("L'indirizzo email non è valido.")){
+      console.log('Acho q esse domain deu ruim')
+      error = true
     }
-    
-    randCity = cities.getRandomVal()
-    await granFratello.$eval('input[name="profile.hometown"]', (el, randCity) => {
-      return el.value = randCity
-    }, randCity)
-    
-    randGender = gender.getRandomVal()
-    if(randGender == 'm'){
-      await granFratello.$eval('input[value="m "]', el => el.click())
-    }else if(randGender == 'f'){
-      await granFratello.$eval('input[value="f"]', el => el.click())
+    if(!error){
+      await granFratello.$eval('input[name="password"]', (el, passYop) => {
+        return el.value = passYop
+      }, passYop)
+      await granFratello.$eval('input[name="passwordRetype"]', (el, passYop) => {
+        return el.value = passYop
+      }, passYop)
+      await granFratello.$eval('input[name="profile.firstName"]', (el, userYop) => {
+        return el.value = userYop
+      }, userYop)
+      await granFratello.$eval('input[name="profile.lastName"]', (el, userYop) => {
+        return el.value = userYop
+      }, userYop)
+      
+      let birthDate = Math.floor(Math.random() * (28 - 1 + 1)) + 1
+      let birthMonth = Math.floor(Math.random() * (12 - 1 + 1)) + 1
+      let birthYear = Math.floor(Math.random() * (1998 - 1967 + 1)) + 1967
+  
+      await granFratello.select('#gigya-dropdown-122191383995894850', birthDate.toString())
+      await granFratello.select('#gigya-dropdown-118502566152086350', birthMonth.toString())
+      await granFratello.select('#gigya-dropdown-8784083251535020', birthYear.toString()) 
+      
+      let gender = ['m', 'f'],
+      cities = ['Milano', 'Roma', 'Sicilia', 'Cagliari', 'Genova', 'Rimini', 'Vicenza', 'Udine', 'Taranto', 'Torino']
+      randGender = '',
+      randCity = ''
+      Array.prototype.getRandomVal = function(){
+        return this[Math.floor(Math.random() * this.length)]
+      }
+      
+      randCity = cities.getRandomVal()
+      await granFratello.$eval('input[name="profile.hometown"]', (el, randCity) => {
+        return el.value = randCity
+      }, randCity)
+      
+      randGender = gender.getRandomVal()
+      if(randGender == 'm'){
+        await granFratello.$eval('input[value="m "]', el => el.click())
+      }else if(randGender == 'f'){
+        await granFratello.$eval('input[value="f"]', el => el.click())
+      }
+      await granFratello.$$eval('input[value="true"]', checkboxes => {
+        checkboxes.forEach(chbox => chbox.click())
+     })
+  
+     console.log('Resolvendo o captcha... user:', userYop)
+     await Promise.all([
+        await granFratello.waitForTimeout(10000),
+        await granFratello.$eval('input[type="submit"]', el => el.click()),
+        await granFratello.solveRecaptchas()
+      ])
+      console.log('Foi...')
+      return true
+    }else{
+      return false
     }
-    await granFratello.$$eval('input[value="true"]', checkboxes => {
-      checkboxes.forEach(chbox => chbox.click())
-   })
-
-   console.log('Resolvendo o captcha... user:', userYop)
-   console.log('Foi...')
-   await Promise.all([
-      await granFratello.waitForTimeout(10000),
-      await granFratello.$eval('input[type="submit"]', el => el.click()),
-      await granFratello.solveRecaptchas()
-    ])
   }
 
 let writeJson = async (jsonPath, content) => {
@@ -176,7 +199,8 @@ const checkDuplicateEmail = async (emailsJson, userYop) => {
   return flagDuplicate
 }
 
-let number = 0
+let number = 0,
+creationSuccess = false
 while(!flag){
   number = Math.floor(Math.random() * (process.argv[3] - 1 + 1)) + 1
   let userYop = `${process.argv[2]}${number}`
@@ -185,7 +209,10 @@ while(!flag){
   if(isEmailDuplicate){
     continue;
   }else{
-    await createUserGF(userYop, granFratello)
+    creationSuccess = await createUserGF(userYop, granFratello)
+    if(!creationSuccess){
+      flag = true
+    }
   }
  emailsJson = await readJson(jsonPath)
  if(emailsJson.length == process.argv[3]){
@@ -195,9 +222,11 @@ while(!flag){
   }
   if(flag){
    let jsonToReorder = await readJson(jsonPath)
-   reorderEmails = orderBy(jsonToReorder)
-   await writeJson(jsonPath, reorderEmails)
-   browser.close()
+   if(jsonToReorder.length  > 0){
+    reorderEmails = orderBy(jsonToReorder)
+    await writeJson(jsonPath, reorderEmails)
+   }
+    browser.close()
   }  
 } 
 
