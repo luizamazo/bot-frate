@@ -6,7 +6,7 @@ const fs = require('fs')
 puppeteer.use(AdblockerPlugin())
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browser => {
+puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('emails-cbot.json'),
   logPath = path.resolve('log.json')
@@ -35,17 +35,17 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
       await emailGenerator.keyboard.press('A')
       await emailGenerator.keyboard.up('Control')
       await emailGenerator.keyboard.press('Backspace') 
-      await emailGenerator.keyboard.type('bived.com',  {delay: 20})
+      await emailGenerator.keyboard.type(process.argv[2],  {delay: 20})
       await emailGenerator.waitForTimeout(4000)
       await emailGenerator.focus('#userName')
       await emailGenerator.$eval('#refresh > button', el => el.click())
+      let log = await readJson(logPath)
 
       try{
         await emailGenerator.waitForTimeout(5000)
         const emailArrived = await emailGenerator.evaluate(() => {
           return document.querySelector('#email-table').textContent
         })
-        let log = await readJson(logPath)
         if(emailArrived.includes('Conferma la tua registrazione') && !emailArrived.includes('Benvenuto!')){
           await emailGenerator.$eval('#cont_tmpl > table > tbody > tr:nth-child(2) > td > table > tbody > tr > td > p.bt > a', el => el.click())
           await emailGenerator.waitForTimeout(8000)
@@ -82,7 +82,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
         await writeJson(logPath, log)
         return true 
       }catch(e){
-        console.log('deu ruim no inbix', e)
+        console.log('Ihhhh faiô, inbox vazio')
         log.push({
           msg: 'Deu ruim',
           user: user, 
@@ -91,7 +91,7 @@ puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browse
        await writeJson(logPath, log)
       }
     }catch(e){
-      console.log('deu ruim', e)
+      console.log('Deu ruim em tudo', e)
       return false
     }
   }
