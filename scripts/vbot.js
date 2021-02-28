@@ -1,92 +1,84 @@
 const puppeteer = require('puppeteer-extra')
 const fs = require('fs')
 let path = require('path')
-
+ 
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
+puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browser => {
   let flag = false,
-  jsonPath = path.resolve('emails-ac.json')
+  jsonPath = path.resolve('../json/emails-vbot.json'),
+  logPath = path.resolve('../json/vbot-log.json')
   const granFratello = await browser.newPage()
- 
+  
   await granFratello.goto('https://grandefratello.mediaset.it/vota/', {
     waitUntil: 'load',
     timeout: 0
   }) 
 
-  const voteGF = async (email,password) => {
+  const checkGF = async (email,password) => {
     try{
-      await granFratello.waitForTimeout(2000)
+      await granFratello.waitForTimeout(3000)
       await granFratello.waitForSelector('#user_name')
       await granFratello.$eval('#user_name > span', el => el.click())
  
+      console.log('Iniciando...')
+      await granFratello.waitForTimeout(2000)
       await granFratello.waitForSelector('input[name="username"]')
       await granFratello.waitForSelector('input[name="password"]')
-      await granFratello.$eval('input[name="username"]', (el, email) => {
-        return el.value = `${email}@yopmail.com`
-      }, email)
+      let domain = process.argv[2]
+      await granFratello.$eval('input[name="username"]', (el, email, domain) => {
+        return el.value = `${email}@${domain}`
+      }, email, domain)
       await granFratello.$eval('input[name="password"]', (el, password) => {
         return el.value = password
       }, password)
       await granFratello.$eval('input[type="submit"]', el => el.click())
-
-      let zeroVotes = false
-      while(!zeroVotes){
-        zeroVotes = await vote(zeroVotes)
+      await granFratello.waitForTimeout(2000)
+      const errorMessage = await granFratello.evaluate(() => {
+        let err = document.querySelector('#gigya-login-form > div.gigya-layout-row.with-divider > div.gigya-layout-cell.responsive.with-site-login > div.gigya-error-display.gigya-composite-control.gigya-composite-control-form-error.gigya-error-code-403042.gigya-error-display-active > div')
+          if(err){
+            return err.textContent
+          } 
+      })
+      let log = await readJson(logPath),
+      error = false
+      if(errorMessage != undefined && errorMessage.includes("Email o password errata")){
+        console.log('Acho que a conta foi banida... email ou senha deu ruim')
+        log.push({
+          msg: 'Error: Conta possivelmente banida', 
+          user: email,
+          errorMsg: errorMessage
+       })
+        await writeJson(logPath, log)
+        error = true
       }
 
-      if(zeroVotes){
+      if(!error){
+        console.log('Conta ainda funciona:', email)
+        log.push({
+          msg: 'Conta ainda funciona', 
+          user: email
+        })
+        await writeJson(logPath, log)
         console.log('Fazendo logout...')
         try{
           await granFratello.waitForSelector('#user_name')
           await granFratello.$eval('#user_name > span', el => el.click())
           await granFratello.waitForSelector('#logout')
           await granFratello.$eval('#logout', el => el.click())
-          await granFratello.waitForTimeout(2000)
+          await granFratello.waitForTimeout(3000)
 
           return true
         }catch(e){
-          console.error('afs', e)
+          console.error('Deu ruim no logout', e)
         }
       }
     }catch(e){
-      console.log('deu ruim', e)
+      console.log('Deu ruim na validação das contas', e)
       return false
     }
   }
-
-
-let vote = async () => {
-  await granFratello.waitForTimeout(5000)
-  if(process.argv[2] == 'r'){
-    await granFratello.$eval('a[title="Rosalinda"]', el => el.click())
-  }else if(process.argv[2] == 'd'){
-    await granFratello.$eval('a[title="Dayane"]', el => el.click())
-  }
-
-  await granFratello.$eval('#main > div > div.b_vote.active > h3 > span', el => el.click())
-  await granFratello.waitForSelector('.b_info.on')
-  const msgOk = await granFratello.evaluate(() => document.querySelector('.b_info.on').textContent)
-  //console.log('Mensagem:', msgOk) 
-  if(msgOk.includes('Hai a disposizione ancora')){
-    try{
-      if(process.argv[2] == 'r'){
-        console.log('Votei na fiasco || Ainda há votos nessa sessão, revotando...\n')
-      }else if(process.argv[2] == 'd'){
-        console.log('Votei na BDS || Ainda há votos nessa sessão, revotando...\n')
-      }
-      await granFratello.waitForSelector('#msg_ok > span.revote > a')
-      await granFratello.$eval('#msg_ok > span.revote > a', el => el.click())
-      return false
-    }catch(error){
-      console.log('deu ruim no revote')
-    } 
-  }else if(msgOk.includes('Hai utilizzato tutti i voti esprimibili per questa sessione.') || msgOk.includes('Hai raggiunto il limite massimo di voti esprimibili')){
-    console.log('Acabou os votos dessa sessão')
-    return true
-  }
-}
 
 let writeJson = async (jsonPath, content) => {
   return new Promise(function(resolve, reject){
@@ -126,7 +118,7 @@ while(!flag){
       flag = true
     }else{
       for(emails of emailsJson){
-        await voteGF(emails, password)
+        await checkGF(emails, password)
       }
       flag = true
     }

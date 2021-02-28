@@ -8,8 +8,8 @@ puppeteer.use(StealthPlugin())
 
 puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
   let flag = false,
-  jsonPath = path.resolve('emails-cbot.json'),
-  logPath = path.resolve('log.json')
+  jsonPath = path.resolve('../json/emails-cbot.json'),
+  logPath = path.resolve('../json/cbot-log.json')
   const emailGenerator = await browser.newPage()
   await emailGenerator.goto('https://generator.email/', {
     waitUntil: 'load',

@@ -17,9 +17,9 @@ puppeteer.use(
   })
 )
 
-puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
+puppeteer.launch({ headless: false, ignoreHTTPSErrors: true, defaultViewport: null }).then(async browser => {
   let flag = false,
-  jsonPath = path.resolve('emails.json')
+  jsonPath = path.resolve('../json/emails-botzin.json')
   const granFratello = await browser.newPage()
  // await granFratello.setViewport({ width: 1200, height: 3000})
  
@@ -34,7 +34,7 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
       await granFratello.waitForTimeout(5000)
       await granFratello.waitForSelector('#user_name')
       await granFratello.$eval('#user_name', el => el.click())
-      await granFratello.waitForTimeout(5000)
+      await granFratello.waitForTimeout(8000)
       await granFratello.waitForSelector('.register')
       await granFratello.$eval('.register', el => el.click())
       await pageRegisterSelectorLoad()
@@ -80,7 +80,7 @@ puppeteer.launch({ headless: true, ignoreHTTPSErrors: true, defaultViewport: nul
     const passYop = 'Vixen100'
     let error = false
     await granFratello.focus('input[name="email"')
-    await granFratello.keyboard.type(`${userYop}@billseo.com`,  {delay: 20})
+    await granFratello.keyboard.type(`${userYop}@${process.argv[4]}`,  {delay: 20})
     /* await granFratello.$eval('input[name="email"]', (el, userYop) => {
       return el.value = `${userYop}@yopmail.com`
     }, userYop)*/
