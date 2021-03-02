@@ -5,7 +5,7 @@ let path = require('path')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: false, ignoreHTTPSErrors: true }).then(async browser => {
+puppeteer.launch({ headless: true, ignoreHTTPSErrors: true }).then(async browser => {
   let flag = false,
   jsonPath = path.resolve('../json/emails-vbot.json'),
   logPath = path.resolve('../json/vbot-log.json')

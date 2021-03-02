@@ -1,38 +1,2994 @@
 [
   {
-    "msg": "Conta ainda funciona",
-    "user": "cptest2"
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria1",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria2",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria3",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria4",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria5",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria6",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria7",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria8",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria9",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria10",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria11",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria12",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria13",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria14",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria15",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria16",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria17",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria18",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria19",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria20",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria21",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria22",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria23",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria24",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria25",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria26",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria27",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria28",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "jogado1"
+    "user": "asteria29"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria30",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria31",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria32",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria33",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria34",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria35",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria36",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria37",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria38",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria39",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria40",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria41",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria42",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria43",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria44",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria45",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria46",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria47",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria48",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria49",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria50",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria51",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria52",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria53",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria54",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria55",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria56",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria57",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria58",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria59",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria60",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria61",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria62",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria63",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria64",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria65",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria66",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria67",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria68",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria69",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria70",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria71",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria72",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria73",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria74",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria75",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria76",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria77",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria78",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria79",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "jogado2"
+    "user": "asteria80"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria81",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria82",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria83",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria84",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria85",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria86",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria87",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria88",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria89",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria90",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria91",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria92",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria93",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria94",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria95",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria96",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria97",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria98",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria99",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "asteria100",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera1",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera2",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera3",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera4",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera5",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera6",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera7",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera8",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "infielzin1"
+    "user": "quimera9"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera10",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera11",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera12",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera13",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera14",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera15",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera16",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera17",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera18",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera19",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera20",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera21",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera22",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera23",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera24",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera25",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera26",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera27",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera28",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera29",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera30",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera31",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera32",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera33",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera34",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera35",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera36",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera37",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera38",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera39",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera40",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera41",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "infielzin2"
+    "user": "quimera42"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera43",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera44",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera45",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera46",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera47",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera48",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera49",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera50",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera51",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera52",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera53",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera54",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera55",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera56",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera57",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera58",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "infielzin4"
+    "user": "quimera59"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera60",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera61",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera62",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera63",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera64",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera65",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera66",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera67",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera68",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera69",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera70",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera71",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera72",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera73",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera74",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera75",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera76",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera77",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera78",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera79",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera80",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera81",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera82",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera83",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera84",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera85",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera86",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera87",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera88",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera89",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera90",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera91",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera92",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera93",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera94",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera95",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera96",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera97",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera98",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera99",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "quimera100",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson1",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson2",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson3",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson4",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson5",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson6",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson7",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson8",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson9",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson10",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson11",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson12",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson13",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson14",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson15",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson16",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson17",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson18",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson19",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson20",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson21",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson22",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson23",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "infielzin7"
+    "user": "mikaelson24"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson25",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson26",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson27",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson28",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson29",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson30",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson31",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson32",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson33",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson34",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson35",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson36",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson37",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson38",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson39",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson40",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson41",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson42",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson43",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson44",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson45",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson46",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson47",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson48",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson49",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson50",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson51",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson52",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson53",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson54",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson55",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson56",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson57",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson58",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson59",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson60",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson61",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson62",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson63",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson64",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson65",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson66",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson67",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson68",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson69",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson70",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson71",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson72",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson73",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson74",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson75",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson76",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson77",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson78",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson79",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson80",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson81",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson82",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson83",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson84",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson85",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson86",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson87",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson88",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson89",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson90",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson91",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson92",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson93",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson94",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson95",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson96",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson97",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson98",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson99",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "mikaelson100",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore1",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore2",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore3",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore4",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore5",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore6",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore7",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore8",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore9",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore10",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore11",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore12",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore13",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore14",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore15",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore16",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore17",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore18",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore19",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore20",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore21",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore22",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore23",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   },
   {
     "msg": "Conta ainda funciona",
-    "user": "infielzin8"
+    "user": "salvatore24"
   },
   {
-    "msg": "Conta ainda funciona",
-    "user": "infielzin10"
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore25",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore26",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore27",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore28",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore29",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore30",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore31",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore32",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore33",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore34",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore35",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore36",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore37",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore38",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore39",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore40",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore41",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore42",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore43",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore44",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore45",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore46",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore47",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore48",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore49",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore50",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore51",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore52",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore53",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore54",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore55",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore56",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore57",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore58",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore59",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore60",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore61",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore62",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore63",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore64",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore65",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore66",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore67",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore68",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore69",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore70",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore71",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore72",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore73",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore74",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore75",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore76",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore77",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore78",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore79",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore80",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore81",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore82",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore83",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore84",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore85",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore86",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore87",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore88",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore89",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore90",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore91",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore92",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore93",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore94",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore95",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore96",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore97",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore98",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore99",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+    "msg": "Error: Conta possivelmente banida",
+    "user": "salvatore100",
+    "errorMsg": "Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  }
+]
+
+[
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove1",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove2",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove3",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove4",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove5",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove6",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Conta ainda funciona",
+     "user":"killthislove7"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove8",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove9",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove10",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove11",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove12",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove13",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove14",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove15",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove16",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove17",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove18",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove19",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove20",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove21",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove22",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove23",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove24",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove25",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove26",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove27",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove28",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove29",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove30",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove31",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove32",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove33",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove34",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove35",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove36",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove37",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove38",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove39",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove40",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove41",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove42",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove43",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove44",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove45",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove46",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove47",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove48",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove49",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove50",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove51",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove52",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove53",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove54",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove55",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove56",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove57",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Conta ainda funciona",
+     "user":"killthislove58"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove59",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove60",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove61",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove62",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove63",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove64",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove65",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove66",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove67",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove68",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove69",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove70",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove71",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove72",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove73",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove74",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove75",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove76",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove77",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove78",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove79",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove80",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove81",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove82",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove83",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove84",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove85",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove86",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove87",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove88",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove89",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove90",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove91",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove92",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove93",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove94",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove95",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove96",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove97",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove98",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove99",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"killthislove100",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless1",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless2",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless3",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless4",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless5",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless6",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless7",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless8",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless9",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless10",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless11",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless12",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless13",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless14",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless15",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless16",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless17",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless18",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless19",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless20",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless21",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless22",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless23",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless24",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless25",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless26",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless27",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless28",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless29",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless30",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless31",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless32",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless33",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless34",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless35",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless36",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless37",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless38",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless39",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Conta ainda funciona",
+     "user":"loveless40"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless41",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless42",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless43",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless44",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless45",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless46",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless47",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless48",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless49",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless50",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless51",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless52",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless53",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless54",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless55",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless56",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless57",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless58",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless59",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless60",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless61",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless62",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless63",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless64",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless65",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless66",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless67",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless68",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless69",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless70",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless71",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless72",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless73",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless74",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless75",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Conta ainda funciona",
+     "user":"loveless76"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless77",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless78",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless79",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless80",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless81",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless82",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless83",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless84",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless85",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless86",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless87",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless88",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless89",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless90",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless91",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless92",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless93",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless94",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless95",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless96",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless97",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless98",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless99",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
+  },
+  {
+     "msg":"Error: Conta possivelmente banida",
+     "user":"loveless100",
+     "errorMsg":"Email o password errataSe sei registrato a Infinity con la stessa mail che usi per l'account Mediaset, da oggi la tua password unica è quella che già usi su Infinity.Se non ricordi la password clicca qui"
   }
 ]
